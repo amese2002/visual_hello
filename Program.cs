@@ -12,6 +12,7 @@ namespace GitTutorial
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("World is Mine");
+            Console.WriteLine("Rifle Squad ready for action");
         }
     }
 }
