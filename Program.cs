@@ -18,6 +18,7 @@ namespace GitTutorial
             Console.WriteLine(" We Can now deploy smokeScreen near by Enemy");
             Console.WriteLine("Tank Supports Here, Sherman Ready.");
             Console.WriteLine("Battelion Major, Ready for Action");
+            Console.WriteLine("Enemy down 100 points");
         }
     }
 }
