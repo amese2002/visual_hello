@@ -17,6 +17,7 @@ namespace GitTutorial
             Console.WriteLine("Heavy Truck Waiting for Orders");
             Console.WriteLine(" We Can now deploy smokeScreen near by Enemy");
             Console.WriteLine("Tank Supports Here, Sherman Ready.");
+            Console.WriteLine("Battelion Major, Ready for Action");
         }
     }
 }
