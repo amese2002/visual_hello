@@ -15,6 +15,8 @@ namespace GitTutorial
             Console.WriteLine("Rifle Squad ready for action");
             Console.WriteLine("Mortal Crew ready for deployment");
             Console.WriteLine("Heavy Truck Waiting for Orders");
+            Console.WriteLine("Rifle Squad ready for action");
+            Console.WriteLine(" We Can now deploy smokeScreen near by Enemy");
         }
     }
 }
