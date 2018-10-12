@@ -14,6 +14,7 @@ namespace GitTutorial
             Console.WriteLine("World is Mine");
             Console.WriteLine("Mortal Crew ready for deployment");
             Console.WriteLine("Rifle Squad ready for action");
+            Console.WriteLine(" We Can now deploy smokeScreen near by Enemy");
         }
     }
 }
