@@ -20,6 +20,7 @@ namespace GitTutorial
             Console.WriteLine("Battelion Major, Ready for Action");
             Console.WriteLine("Enemy down 100 points");
             Console.WriteLine("Keep up the Press. They down 50 points");
+            Console.WriteLine("Enemy down 25 points.");
         }
     }
 }
